@@ -1,4 +1,4 @@
-# Trajetorias_dataset
+# Trajetorias dataset
 
 The Trajetorias dataset is an harmonized dataset of environmental, epidemiological, and economic indicators for the Brazilian Amazonian municipalities, 
 produced using source data from 2000 to 2017. It is product of the CNPq Sinbiose edital 2019.  

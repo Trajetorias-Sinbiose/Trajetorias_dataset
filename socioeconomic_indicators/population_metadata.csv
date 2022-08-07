@@ -1,0 +1,23 @@
+,,,
+variable,description,type,source
+geocode,geocodigo do municipio IBGE ,int,Tabnet
+municipio,name of the municipality,string,Tabnet
+urb2000,urban population in 2000 (census),int,Tabnet
+rur2000,rural population in 2000 (census),int,Tabnet
+tot2000,total population in 2000 (census),int,Tabnet
+prop_urb2000,proportion of urban pop in 2000,float,Tabnet
+prop_rur2000,proportion or rural pop in 2000,float,Tabnet
+urb2010,urban population in 2010 (census),int,Tabnet
+rur2010,rural population in 2010 (census),int,Tabnet
+tot2010,total population in 2010 (census),int,Tabnet
+prop_urb2010,proportion of urban pop in 2010,float,calculated
+prop_rur2010,proportion or rural pop in 2010,float,calculated
+pop_estimated2006,estimated pop by TCU,int,Tabnet
+pop_estimated2017,estimated pop by TCU,int,Tabnet
+urb2006e,prop_urb_2010 * estimated,float,calculated
+rur2006e,prop_rur_2010 * estimated,float,calculated
+urb2017e,prop_urb_2010 * estimated,float,calculated
+rur2017e,prop_rur_2010 * estimated,float,calculated
+,,,
+PS. ,,,
+"There are 323 municipalities that did not exist in 2000, only in 2010. ",,,

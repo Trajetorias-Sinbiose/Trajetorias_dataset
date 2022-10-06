@@ -1,0 +1,607 @@
+geocode,municipio,uf,disease,period,zone,cases
+110040, Alto Paraíso,11,chagas,2004-2008,rural,0
+110002, Ariquemes,11,chagas,2004-2008,rural,1
+110045, Buritis,11,chagas,2004-2008,rural,NA
+110060, Cacaulândia,11,chagas,2004-2008,rural,1
+110005, Cerejeiras,11,chagas,2004-2008,rural,0
+110006, Colorado do Oeste,11,chagas,2004-2008,rural,0
+110012, Ji-Paraná,11,chagas,2004-2008,rural,0
+110140, Monte Negro,11,chagas,2004-2008,rural,1
+110143, Nova União,11,chagas,2004-2008,rural,0
+110015, Ouro Preto do Oeste,11,chagas,2004-2008,rural,1
+110145, Parecis,11,chagas,2004-2008,rural,NA
+110018, Pimenta Bueno,11,chagas,2004-2008,rural,0
+110026, Rio Crespo,11,chagas,2004-2008,rural,1
+110028, Rolim de Moura,11,chagas,2004-2008,rural,0
+130014, Apuí,13,chagas,2004-2008,rural,0
+130120, Coari,13,chagas,2004-2008,rural,6
+130230, Jutaí,13,chagas,2004-2008,rural,1
+130260, Manaus,13,chagas,2004-2008,rural,1
+130420, Tefé,13,chagas,2004-2008,rural,2
+150010, Abaetetuba,15,chagas,2004-2008,rural,21
+150030, Afuá,15,chagas,2004-2008,rural,11
+150060, Altamira,15,chagas,2004-2008,rural,0
+150070, Anajás,15,chagas,2004-2008,rural,8
+150080, Ananindeua,15,chagas,2004-2008,rural,0
+150120, Baião,15,chagas,2004-2008,rural,2
+150130, Barcarena,15,chagas,2004-2008,rural,11
+150140, Belém,15,chagas,2004-2008,rural,0
+150200, Cachoeira do Arari,15,chagas,2004-2008,rural,11
+150195, Cachoeira do Piriá,15,chagas,2004-2008,rural,1
+150240, Castanhal,15,chagas,2004-2008,rural,5
+150420, Marabá,15,chagas,2004-2008,rural,0
+150442, Marituba,15,chagas,2004-2008,rural,0
+150460, Mocajuba,15,chagas,2004-2008,rural,0
+150470, Moju,15,chagas,2004-2008,rural,8
+150490, Muaná,15,chagas,2004-2008,rural,1
+150550, Paragominas,15,chagas,2004-2008,rural,0
+150553, Parauapebas,15,chagas,2004-2008,rural,0
+150655, Santa Luzia do Pará,15,chagas,2004-2008,rural,1
+150680, Santarém,15,chagas,2004-2008,rural,22
+150730, São Félix do Xingu,15,chagas,2004-2008,rural,0
+150770, São Sebastião da Boa Vista,15,chagas,2004-2008,rural,2
+150800, Tomé-Açu,15,chagas,2004-2008,rural,1
+150810, Tucuruí,15,chagas,2004-2008,rural,0
+150820, Vigia,15,chagas,2004-2008,rural,0
+160030, Macapá,16,chagas,2004-2008,rural,0
+160060, Santana,16,chagas,2004-2008,rural,2
+210005, Açailândia,21,chagas,2004-2008,rural,0
+210675, Miranda do Norte,21,chagas,2004-2008,rural,1
+211130, São Luís,21,chagas,2004-2008,rural,0
+211200, Tasso Fragoso,21,chagas,2004-2008,rural,0
+510320, Colíder,51,chagas,2004-2008,rural,0
+510410, Guarantã do Norte,51,chagas,2004-2008,rural,0
+510490, Jangada,51,chagas,2004-2008,rural,1
+510642, Peixoto de Azevedo,51,chagas,2004-2008,rural,0
+130008, Anamã,13,chagas,2004-2008,rural,1
+150110, Bagre,15,chagas,2004-2008,rural,8
+150150, Benevides,15,chagas,2004-2008,rural,0
+150160, Bonito,15,chagas,2004-2008,rural,1
+150180, Breves,15,chagas,2004-2008,rural,11
+150210, Cametá,15,chagas,2004-2008,rural,5
+150220, Capanema,15,chagas,2004-2008,rural,0
+150230, Capitão Poço,15,chagas,2004-2008,rural,0
+150275, Concórdia do Pará,15,chagas,2004-2008,rural,0
+150280, Curralinho,15,chagas,2004-2008,rural,7
+150309, Goianésia do Pará,15,chagas,2004-2008,rural,0
+150330, Igarapé-Miri,15,chagas,2004-2008,rural,1
+150495, Nova Esperança do Piriá,15,chagas,2004-2008,rural,1
+150497, Nova Ipixuna,15,chagas,2004-2008,rural,0
+150590, Porto de Moz,15,chagas,2004-2008,rural,0
+150650, Santa Izabel do Pará,15,chagas,2004-2008,rural,1
+150720, São Domingos do Capim,15,chagas,2004-2008,rural,1
+150747, São João de Pirabas,15,chagas,2004-2008,rural,1
+150796, Terra Alta,15,chagas,2004-2008,rural,1
+150830, Viseu,15,chagas,2004-2008,rural,1
+160040, Mazagão,16,chagas,2004-2008,rural,1
+170255, Augustinópolis,17,chagas,2004-2008,rural,1
+170290, Axixá do Tocantins,17,chagas,2004-2008,rural,2
+170740, Esperantina,17,chagas,2004-2008,rural,1
+171700, Pindorama do Tocantins,17,chagas,2004-2008,rural,0
+210110, Axixá,21,chagas,2004-2008,rural,1
+210510, Icatu,21,chagas,2004-2008,rural,1
+210542, Itinga do Maranhão,21,chagas,2004-2008,rural,0
+211240, Turiaçu,21,chagas,2004-2008,rural,4
+510325, Colniza,51,chagas,2004-2008,rural,1
+110094, Cujubim,11,chagas,2015-2019,rural,0
+110020, Porto Velho,11,chagas,2015-2019,rural,0
+120020, Cruzeiro do Sul,12,chagas,2015-2019,rural,5
+120030, Feijó,12,chagas,2015-2019,rural,16
+120032, Jordão,12,chagas,2015-2019,rural,2
+120033, Mâncio Lima,12,chagas,2015-2019,rural,1
+120035, Marechal Thaumaturgo,12,chagas,2015-2019,rural,12
+120039, Porto Walter,12,chagas,2015-2019,rural,2
+120042, Rodrigues Alves,12,chagas,2015-2019,rural,3
+120060, Tarauacá,12,chagas,2015-2019,rural,0
+130002, Alvarães,13,chagas,2015-2019,rural,1
+130020, Atalaia do Norte,13,chagas,2015-2019,rural,0
+130040, Barcelos,13,chagas,2015-2019,rural,1
+130050, Barreirinha,13,chagas,2015-2019,rural,7
+130068, Boa Vista do Ramos,13,chagas,2015-2019,rural,0
+130100, Carauari,13,chagas,2015-2019,rural,4
+130120, Coari,13,chagas,2015-2019,rural,2
+130140, Eirunepé,13,chagas,2015-2019,rural,1
+130160, Fonte Boa,13,chagas,2015-2019,rural,1
+130180, Ipixuna,13,chagas,2015-2019,rural,1
+130185, Iranduba,13,chagas,2015-2019,rural,1
+130220, Juruá,13,chagas,2015-2019,rural,0
+130240, Lábrea,13,chagas,2015-2019,rural,1
+130260, Manaus,13,chagas,2015-2019,rural,1
+130270, Manicoré,13,chagas,2015-2019,rural,1
+130280, Maraã,13,chagas,2015-2019,rural,1
+130310, Nova Olinda do Norte,13,chagas,2015-2019,rural,4
+130340, Parintins,13,chagas,2015-2019,rural,0
+130390, São Paulo de Olivença,13,chagas,2015-2019,rural,0
+130420, Tefé,13,chagas,2015-2019,rural,1
+130426, Uarini,13,chagas,2015-2019,rural,1
+140010, Boa Vista,14,chagas,2015-2019,rural,0
+140020, Caracaraí,14,chagas,2015-2019,rural,1
+150010, Abaetetuba,15,chagas,2015-2019,rural,91
+150020, Acará,15,chagas,2015-2019,rural,29
+150030, Afuá,15,chagas,2015-2019,rural,17
+150034, Água Azul do Norte,15,chagas,2015-2019,rural,1
+150040, Alenquer,15,chagas,2015-2019,rural,2
+150060, Altamira,15,chagas,2015-2019,rural,0
+150070, Anajás,15,chagas,2015-2019,rural,19
+150080, Ananindeua,15,chagas,2015-2019,rural,0
+150090, Augusto Corrêa,15,chagas,2015-2019,rural,2
+150095, Aurora do Pará,15,chagas,2015-2019,rural,2
+150110, Bagre,15,chagas,2015-2019,rural,15
+150120, Baião,15,chagas,2015-2019,rural,1
+150130, Barcarena,15,chagas,2015-2019,rural,51
+150140, Belém,15,chagas,2015-2019,rural,5
+150150, Benevides,15,chagas,2015-2019,rural,1
+150170, Bragança,15,chagas,2015-2019,rural,2
+150178, Breu Branco,15,chagas,2015-2019,rural,1
+150180, Breves,15,chagas,2015-2019,rural,104
+150190, Bujaru,15,chagas,2015-2019,rural,6
+150210, Cametá,15,chagas,2015-2019,rural,68
+150230, Capitão Poço,15,chagas,2015-2019,rural,1
+150240, Castanhal,15,chagas,2015-2019,rural,1
+150280, Curralinho,15,chagas,2015-2019,rural,36
+150285, Curuá,15,chagas,2015-2019,rural,0
+150307, Garrafão do Norte,15,chagas,2015-2019,rural,2
+150310, Gurupá,15,chagas,2015-2019,rural,6
+150320, Igarapé-Açu,15,chagas,2015-2019,rural,1
+150330, Igarapé-Miri,15,chagas,2015-2019,rural,52
+150340, Inhangapi,15,chagas,2015-2019,rural,1
+150345, Ipixuna do Pará,15,chagas,2015-2019,rural,0
+150350, Irituia,15,chagas,2015-2019,rural,2
+150375, Jacareacanga,15,chagas,2015-2019,rural,1
+150390, Juruti,15,chagas,2015-2019,rural,1
+150400, Limoeiro do Ajuru,15,chagas,2015-2019,rural,54
+150410, Magalhães Barata,15,chagas,2015-2019,rural,0
+150420, Marabá,15,chagas,2015-2019,rural,1
+150442, Marituba,15,chagas,2015-2019,rural,0
+150450, Melgaço,15,chagas,2015-2019,rural,25
+150460, Mocajuba,15,chagas,2015-2019,rural,0
+150470, Moju,15,chagas,2015-2019,rural,7
+150490, Muaná,15,chagas,2015-2019,rural,46
+150506, Novo Repartimento,15,chagas,2015-2019,rural,1
+150520, Oeiras do Pará,15,chagas,2015-2019,rural,21
+150530, Oriximiná,15,chagas,2015-2019,rural,1
+150540, Ourém,15,chagas,2015-2019,rural,0
+150548, Pacajá,15,chagas,2015-2019,rural,1
+150550, Paragominas,15,chagas,2015-2019,rural,0
+150570, Ponta de Pedras,15,chagas,2015-2019,rural,4
+150580, Portel,15,chagas,2015-2019,rural,3
+150600, Prainha,15,chagas,2015-2019,rural,1
+150620, Salinópolis,15,chagas,2015-2019,rural,1
+150635, Santa Bárbara do Pará,15,chagas,2015-2019,rural,1
+150680, Santarém,15,chagas,2015-2019,rural,23
+150700, Santo Antônio do Tauá,15,chagas,2015-2019,rural,0
+150720, São Domingos do Capim,15,chagas,2015-2019,rural,22
+150760, São Miguel do Guamá,15,chagas,2015-2019,rural,4
+150770, São Sebastião da Boa Vista,15,chagas,2015-2019,rural,32
+150795, Tailândia,15,chagas,2015-2019,rural,0
+150800, Tomé-Açu,15,chagas,2015-2019,rural,1
+150803, Tracuateua,15,chagas,2015-2019,rural,1
+150810, Tucuruí,15,chagas,2015-2019,rural,0
+150830, Viseu,15,chagas,2015-2019,rural,1
+160030, Macapá,16,chagas,2015-2019,rural,9
+160040, Mazagão,16,chagas,2015-2019,rural,3
+160060, Santana,16,chagas,2015-2019,rural,0
+160070, Tartarugalzinho,16,chagas,2015-2019,rural,0
+170110, Aparecida do Rio Negro,17,chagas,2015-2019,rural,0
+170210, Araguaína,17,chagas,2015-2019,rural,1
+170220, Araguatins,17,chagas,2015-2019,rural,1
+170550, Colinas do Tocantins,17,chagas,2015-2019,rural,0
+170600, Couto Magalhães,17,chagas,2015-2019,rural,1
+170930, Guaraí,17,chagas,2015-2019,rural,0
+172010, São Bento do Tocantins,17,chagas,2015-2019,rural,1
+210020, Alcântara,21,chagas,2015-2019,rural,1
+210530, Imperatriz,21,chagas,2015-2019,rural,0
+210760, Palmeirândia,21,chagas,2015-2019,rural,1
+210825, Pedro do Rosário,21,chagas,2015-2019,rural,18
+210860, Pinheiro,21,chagas,2015-2019,rural,0
+211020, Santa Rita,21,chagas,2015-2019,rural,1
+211240, Turiaçu,21,chagas,2015-2019,rural,1
+211245, Turilândia,21,chagas,2015-2019,rural,11
+510343, Curvelândia,51,chagas,2015-2019,rural,1
+510625, Nova Xavantina,51,chagas,2015-2019,rural,0
+510760, Rondonópolis,51,chagas,2015-2019,rural,1
+510790, Sinop,51,chagas,2015-2019,rural,0
+110040, Alto Paraíso,11,chagas,2004-2008,urban,2
+110002, Ariquemes,11,chagas,2004-2008,urban,6
+110045, Buritis,11,chagas,2004-2008,urban,NA
+110060, Cacaulândia,11,chagas,2004-2008,urban,0
+110005, Cerejeiras,11,chagas,2004-2008,urban,1
+110006, Colorado do Oeste,11,chagas,2004-2008,urban,1
+110012, Ji-Paraná,11,chagas,2004-2008,urban,1
+110140, Monte Negro,11,chagas,2004-2008,urban,0
+110143, Nova União,11,chagas,2004-2008,urban,1
+110015, Ouro Preto do Oeste,11,chagas,2004-2008,urban,0
+110145, Parecis,11,chagas,2004-2008,urban,NA
+110018, Pimenta Bueno,11,chagas,2004-2008,urban,3
+110026, Rio Crespo,11,chagas,2004-2008,urban,0
+110028, Rolim de Moura,11,chagas,2004-2008,urban,1
+130014, Apuí,13,chagas,2004-2008,urban,2
+130120, Coari,13,chagas,2004-2008,urban,20
+130230, Jutaí,13,chagas,2004-2008,urban,0
+130260, Manaus,13,chagas,2004-2008,urban,4
+130420, Tefé,13,chagas,2004-2008,urban,8
+150010, Abaetetuba,15,chagas,2004-2008,urban,19
+150030, Afuá,15,chagas,2004-2008,urban,1
+150060, Altamira,15,chagas,2004-2008,urban,1
+150070, Anajás,15,chagas,2004-2008,urban,1
+150080, Ananindeua,15,chagas,2004-2008,urban,14
+150120, Baião,15,chagas,2004-2008,urban,0
+150130, Barcarena,15,chagas,2004-2008,urban,24
+150140, Belém,15,chagas,2004-2008,urban,61
+150200, Cachoeira do Arari,15,chagas,2004-2008,urban,0
+150195, Cachoeira do Piriá,15,chagas,2004-2008,urban,0
+150240, Castanhal,15,chagas,2004-2008,urban,11
+150420, Marabá,15,chagas,2004-2008,urban,2
+150442, Marituba,15,chagas,2004-2008,urban,2
+150460, Mocajuba,15,chagas,2004-2008,urban,1
+150470, Moju,15,chagas,2004-2008,urban,4
+150490, Muaná,15,chagas,2004-2008,urban,0
+150550, Paragominas,15,chagas,2004-2008,urban,2
+150553, Parauapebas,15,chagas,2004-2008,urban,1
+150655, Santa Luzia do Pará,15,chagas,2004-2008,urban,0
+150680, Santarém,15,chagas,2004-2008,urban,2
+150730, São Félix do Xingu,15,chagas,2004-2008,urban,4
+150770, São Sebastião da Boa Vista,15,chagas,2004-2008,urban,0
+150800, Tomé-Açu,15,chagas,2004-2008,urban,0
+150810, Tucuruí,15,chagas,2004-2008,urban,5
+150820, Vigia,15,chagas,2004-2008,urban,1
+160030, Macapá,16,chagas,2004-2008,urban,58
+160060, Santana,16,chagas,2004-2008,urban,10
+210005, Açailândia,21,chagas,2004-2008,urban,1
+210675, Miranda do Norte,21,chagas,2004-2008,urban,1
+211130, São Luís,21,chagas,2004-2008,urban,1
+211200, Tasso Fragoso,21,chagas,2004-2008,urban,1
+510320, Colíder,51,chagas,2004-2008,urban,4
+510410, Guarantã do Norte,51,chagas,2004-2008,urban,2
+510490, Jangada,51,chagas,2004-2008,urban,0
+510642, Peixoto de Azevedo,51,chagas,2004-2008,urban,1
+130008, Anamã,13,chagas,2004-2008,urban,0
+150110, Bagre,15,chagas,2004-2008,urban,0
+150150, Benevides,15,chagas,2004-2008,urban,1
+150160, Bonito,15,chagas,2004-2008,urban,0
+150180, Breves,15,chagas,2004-2008,urban,6
+150210, Cametá,15,chagas,2004-2008,urban,0
+150220, Capanema,15,chagas,2004-2008,urban,1
+150230, Capitão Poço,15,chagas,2004-2008,urban,1
+150275, Concórdia do Pará,15,chagas,2004-2008,urban,1
+150280, Curralinho,15,chagas,2004-2008,urban,2
+150309, Goianésia do Pará,15,chagas,2004-2008,urban,1
+150330, Igarapé-Miri,15,chagas,2004-2008,urban,0
+150495, Nova Esperança do Piriá,15,chagas,2004-2008,urban,0
+150497, Nova Ipixuna,15,chagas,2004-2008,urban,1
+150590, Porto de Moz,15,chagas,2004-2008,urban,1
+150650, Santa Izabel do Pará,15,chagas,2004-2008,urban,4
+150720, São Domingos do Capim,15,chagas,2004-2008,urban,1
+150747, São João de Pirabas,15,chagas,2004-2008,urban,4
+150796, Terra Alta,15,chagas,2004-2008,urban,0
+150830, Viseu,15,chagas,2004-2008,urban,0
+160040, Mazagão,16,chagas,2004-2008,urban,0
+170255, Augustinópolis,17,chagas,2004-2008,urban,0
+170290, Axixá do Tocantins,17,chagas,2004-2008,urban,2
+170740, Esperantina,17,chagas,2004-2008,urban,0
+171700, Pindorama do Tocantins,17,chagas,2004-2008,urban,1
+210110, Axixá,21,chagas,2004-2008,urban,0
+210510, Icatu,21,chagas,2004-2008,urban,0
+210542, Itinga do Maranhão,21,chagas,2004-2008,urban,1
+211240, Turiaçu,21,chagas,2004-2008,urban,0
+510325, Colniza,51,chagas,2004-2008,urban,0
+110094, Cujubim,11,chagas,2015-2019,urban,1
+110020, Porto Velho,11,chagas,2015-2019,urban,1
+120020, Cruzeiro do Sul,12,chagas,2015-2019,urban,8
+120030, Feijó,12,chagas,2015-2019,urban,0
+120032, Jordão,12,chagas,2015-2019,urban,0
+120033, Mâncio Lima,12,chagas,2015-2019,urban,0
+120035, Marechal Thaumaturgo,12,chagas,2015-2019,urban,0
+120039, Porto Walter,12,chagas,2015-2019,urban,0
+120042, Rodrigues Alves,12,chagas,2015-2019,urban,0
+120060, Tarauacá,12,chagas,2015-2019,urban,2
+130002, Alvarães,13,chagas,2015-2019,urban,0
+130020, Atalaia do Norte,13,chagas,2015-2019,urban,1
+130040, Barcelos,13,chagas,2015-2019,urban,1
+130050, Barreirinha,13,chagas,2015-2019,urban,8
+130068, Boa Vista do Ramos,13,chagas,2015-2019,urban,1
+130100, Carauari,13,chagas,2015-2019,urban,14
+130120, Coari,13,chagas,2015-2019,urban,2
+130140, Eirunepé,13,chagas,2015-2019,urban,0
+130160, Fonte Boa,13,chagas,2015-2019,urban,0
+130180, Ipixuna,13,chagas,2015-2019,urban,0
+130185, Iranduba,13,chagas,2015-2019,urban,0
+130220, Juruá,13,chagas,2015-2019,urban,2
+130240, Lábrea,13,chagas,2015-2019,urban,7
+130260, Manaus,13,chagas,2015-2019,urban,10
+130270, Manicoré,13,chagas,2015-2019,urban,0
+130280, Maraã,13,chagas,2015-2019,urban,0
+130310, Nova Olinda do Norte,13,chagas,2015-2019,urban,0
+130340, Parintins,13,chagas,2015-2019,urban,1
+130390, São Paulo de Olivença,13,chagas,2015-2019,urban,1
+130420, Tefé,13,chagas,2015-2019,urban,0
+130426, Uarini,13,chagas,2015-2019,urban,6
+140010, Boa Vista,14,chagas,2015-2019,urban,2
+140020, Caracaraí,14,chagas,2015-2019,urban,1
+150010, Abaetetuba,15,chagas,2015-2019,urban,61
+150020, Acará,15,chagas,2015-2019,urban,12
+150030, Afuá,15,chagas,2015-2019,urban,2
+150034, Água Azul do Norte,15,chagas,2015-2019,urban,0
+150040, Alenquer,15,chagas,2015-2019,urban,1
+150060, Altamira,15,chagas,2015-2019,urban,1
+150070, Anajás,15,chagas,2015-2019,urban,2
+150080, Ananindeua,15,chagas,2015-2019,urban,40
+150090, Augusto Corrêa,15,chagas,2015-2019,urban,1
+150095, Aurora do Pará,15,chagas,2015-2019,urban,0
+150110, Bagre,15,chagas,2015-2019,urban,32
+150120, Baião,15,chagas,2015-2019,urban,2
+150130, Barcarena,15,chagas,2015-2019,urban,35
+150140, Belém,15,chagas,2015-2019,urban,154
+150150, Benevides,15,chagas,2015-2019,urban,9
+150170, Bragança,15,chagas,2015-2019,urban,8
+150178, Breu Branco,15,chagas,2015-2019,urban,0
+150180, Breves,15,chagas,2015-2019,urban,98
+150190, Bujaru,15,chagas,2015-2019,urban,20
+150210, Cametá,15,chagas,2015-2019,urban,33
+150230, Capitão Poço,15,chagas,2015-2019,urban,0
+150240, Castanhal,15,chagas,2015-2019,urban,4
+150280, Curralinho,15,chagas,2015-2019,urban,6
+150285, Curuá,15,chagas,2015-2019,urban,2
+150307, Garrafão do Norte,15,chagas,2015-2019,urban,0
+150310, Gurupá,15,chagas,2015-2019,urban,0
+150320, Igarapé-Açu,15,chagas,2015-2019,urban,0
+150330, Igarapé-Miri,15,chagas,2015-2019,urban,10
+150340, Inhangapi,15,chagas,2015-2019,urban,0
+150345, Ipixuna do Pará,15,chagas,2015-2019,urban,1
+150350, Irituia,15,chagas,2015-2019,urban,0
+150375, Jacareacanga,15,chagas,2015-2019,urban,0
+150390, Juruti,15,chagas,2015-2019,urban,1
+150400, Limoeiro do Ajuru,15,chagas,2015-2019,urban,13
+150410, Magalhães Barata,15,chagas,2015-2019,urban,1
+150420, Marabá,15,chagas,2015-2019,urban,1
+150442, Marituba,15,chagas,2015-2019,urban,8
+150450, Melgaço,15,chagas,2015-2019,urban,4
+150460, Mocajuba,15,chagas,2015-2019,urban,3
+150470, Moju,15,chagas,2015-2019,urban,10
+150490, Muaná,15,chagas,2015-2019,urban,7
+150506, Novo Repartimento,15,chagas,2015-2019,urban,3
+150520, Oeiras do Pará,15,chagas,2015-2019,urban,4
+150530, Oriximiná,15,chagas,2015-2019,urban,0
+150540, Ourém,15,chagas,2015-2019,urban,1
+150548, Pacajá,15,chagas,2015-2019,urban,0
+150550, Paragominas,15,chagas,2015-2019,urban,5
+150570, Ponta de Pedras,15,chagas,2015-2019,urban,1
+150580, Portel,15,chagas,2015-2019,urban,4
+150600, Prainha,15,chagas,2015-2019,urban,2
+150620, Salinópolis,15,chagas,2015-2019,urban,0
+150635, Santa Bárbara do Pará,15,chagas,2015-2019,urban,2
+150680, Santarém,15,chagas,2015-2019,urban,1
+150700, Santo Antônio do Tauá,15,chagas,2015-2019,urban,1
+150720, São Domingos do Capim,15,chagas,2015-2019,urban,3
+150760, São Miguel do Guamá,15,chagas,2015-2019,urban,1
+150770, São Sebastião da Boa Vista,15,chagas,2015-2019,urban,4
+150795, Tailândia,15,chagas,2015-2019,urban,1
+150800, Tomé-Açu,15,chagas,2015-2019,urban,1
+150803, Tracuateua,15,chagas,2015-2019,urban,1
+150810, Tucuruí,15,chagas,2015-2019,urban,5
+150830, Viseu,15,chagas,2015-2019,urban,0
+160030, Macapá,16,chagas,2015-2019,urban,55
+160040, Mazagão,16,chagas,2015-2019,urban,1
+160060, Santana,16,chagas,2015-2019,urban,20
+160070, Tartarugalzinho,16,chagas,2015-2019,urban,1
+170110, Aparecida do Rio Negro,17,chagas,2015-2019,urban,11
+170210, Araguaína,17,chagas,2015-2019,urban,10
+170220, Araguatins,17,chagas,2015-2019,urban,0
+170550, Colinas do Tocantins,17,chagas,2015-2019,urban,1
+170600, Couto Magalhães,17,chagas,2015-2019,urban,0
+170930, Guaraí,17,chagas,2015-2019,urban,3
+172010, São Bento do Tocantins,17,chagas,2015-2019,urban,0
+210020, Alcântara,21,chagas,2015-2019,urban,0
+210530, Imperatriz,21,chagas,2015-2019,urban,1
+210760, Palmeirândia,21,chagas,2015-2019,urban,0
+210825, Pedro do Rosário,21,chagas,2015-2019,urban,2
+210860, Pinheiro,21,chagas,2015-2019,urban,3
+211020, Santa Rita,21,chagas,2015-2019,urban,0
+211240, Turiaçu,21,chagas,2015-2019,urban,0
+211245, Turilândia,21,chagas,2015-2019,urban,0
+510343, Curvelândia,51,chagas,2015-2019,urban,0
+510625, Nova Xavantina,51,chagas,2015-2019,urban,1
+510760, Rondonópolis,51,chagas,2015-2019,urban,0
+510790, Sinop,51,chagas,2015-2019,urban,1
+110040, Alto Paraíso,11,chagas,2004-2008,total,2
+110002, Ariquemes,11,chagas,2004-2008,total,7
+110045, Buritis,11,chagas,2004-2008,total,1
+110060, Cacaulândia,11,chagas,2004-2008,total,1
+110005, Cerejeiras,11,chagas,2004-2008,total,1
+110006, Colorado do Oeste,11,chagas,2004-2008,total,1
+110012, Ji-Paraná,11,chagas,2004-2008,total,1
+110140, Monte Negro,11,chagas,2004-2008,total,1
+110143, Nova União,11,chagas,2004-2008,total,1
+110015, Ouro Preto do Oeste,11,chagas,2004-2008,total,1
+110145, Parecis,11,chagas,2004-2008,total,1
+110018, Pimenta Bueno,11,chagas,2004-2008,total,3
+110026, Rio Crespo,11,chagas,2004-2008,total,1
+110028, Rolim de Moura,11,chagas,2004-2008,total,1
+130014, Apuí,13,chagas,2004-2008,total,2
+130120, Coari,13,chagas,2004-2008,total,26
+130230, Jutaí,13,chagas,2004-2008,total,1
+130260, Manaus,13,chagas,2004-2008,total,5
+130420, Tefé,13,chagas,2004-2008,total,10
+150010, Abaetetuba,15,chagas,2004-2008,total,40
+150030, Afuá,15,chagas,2004-2008,total,12
+150060, Altamira,15,chagas,2004-2008,total,1
+150070, Anajás,15,chagas,2004-2008,total,9
+150080, Ananindeua,15,chagas,2004-2008,total,14
+150120, Baião,15,chagas,2004-2008,total,2
+150130, Barcarena,15,chagas,2004-2008,total,35
+150140, Belém,15,chagas,2004-2008,total,61
+150200, Cachoeira do Arari,15,chagas,2004-2008,total,11
+150195, Cachoeira do Piriá,15,chagas,2004-2008,total,1
+150240, Castanhal,15,chagas,2004-2008,total,16
+150420, Marabá,15,chagas,2004-2008,total,2
+150442, Marituba,15,chagas,2004-2008,total,2
+150460, Mocajuba,15,chagas,2004-2008,total,1
+150470, Moju,15,chagas,2004-2008,total,12
+150490, Muaná,15,chagas,2004-2008,total,1
+150550, Paragominas,15,chagas,2004-2008,total,2
+150553, Parauapebas,15,chagas,2004-2008,total,1
+150655, Santa Luzia do Pará,15,chagas,2004-2008,total,1
+150680, Santarém,15,chagas,2004-2008,total,24
+150730, São Félix do Xingu,15,chagas,2004-2008,total,4
+150770, São Sebastião da Boa Vista,15,chagas,2004-2008,total,2
+150800, Tomé-Açu,15,chagas,2004-2008,total,1
+150810, Tucuruí,15,chagas,2004-2008,total,5
+150820, Vigia,15,chagas,2004-2008,total,1
+160030, Macapá,16,chagas,2004-2008,total,58
+160060, Santana,16,chagas,2004-2008,total,12
+210005, Açailândia,21,chagas,2004-2008,total,1
+210675, Miranda do Norte,21,chagas,2004-2008,total,2
+211130, São Luís,21,chagas,2004-2008,total,1
+211200, Tasso Fragoso,21,chagas,2004-2008,total,1
+510320, Colíder,51,chagas,2004-2008,total,4
+510410, Guarantã do Norte,51,chagas,2004-2008,total,2
+510490, Jangada,51,chagas,2004-2008,total,1
+510642, Peixoto de Azevedo,51,chagas,2004-2008,total,1
+130008, Anamã,13,chagas,2004-2008,total,1
+150110, Bagre,15,chagas,2004-2008,total,8
+150150, Benevides,15,chagas,2004-2008,total,1
+150160, Bonito,15,chagas,2004-2008,total,1
+150180, Breves,15,chagas,2004-2008,total,17
+150210, Cametá,15,chagas,2004-2008,total,5
+150220, Capanema,15,chagas,2004-2008,total,1
+150230, Capitão Poço,15,chagas,2004-2008,total,1
+150275, Concórdia do Pará,15,chagas,2004-2008,total,1
+150280, Curralinho,15,chagas,2004-2008,total,9
+150309, Goianésia do Pará,15,chagas,2004-2008,total,1
+150330, Igarapé-Miri,15,chagas,2004-2008,total,1
+150495, Nova Esperança do Piriá,15,chagas,2004-2008,total,1
+150497, Nova Ipixuna,15,chagas,2004-2008,total,1
+150590, Porto de Moz,15,chagas,2004-2008,total,1
+150650, Santa Izabel do Pará,15,chagas,2004-2008,total,5
+150720, São Domingos do Capim,15,chagas,2004-2008,total,2
+150747, São João de Pirabas,15,chagas,2004-2008,total,5
+150796, Terra Alta,15,chagas,2004-2008,total,1
+150830, Viseu,15,chagas,2004-2008,total,1
+160040, Mazagão,16,chagas,2004-2008,total,1
+170255, Augustinópolis,17,chagas,2004-2008,total,1
+170290, Axixá do Tocantins,17,chagas,2004-2008,total,4
+170740, Esperantina,17,chagas,2004-2008,total,1
+171700, Pindorama do Tocantins,17,chagas,2004-2008,total,1
+210110, Axixá,21,chagas,2004-2008,total,1
+210510, Icatu,21,chagas,2004-2008,total,1
+210542, Itinga do Maranhão,21,chagas,2004-2008,total,1
+211240, Turiaçu,21,chagas,2004-2008,total,4
+510325, Colniza,51,chagas,2004-2008,total,1
+110094, Cujubim,11,chagas,2015-2019,total,1
+110020, Porto Velho,11,chagas,2015-2019,total,1
+120020, Cruzeiro do Sul,12,chagas,2015-2019,total,13
+120030, Feijó,12,chagas,2015-2019,total,16
+120032, Jordão,12,chagas,2015-2019,total,2
+120033, Mâncio Lima,12,chagas,2015-2019,total,1
+120035, Marechal Thaumaturgo,12,chagas,2015-2019,total,12
+120039, Porto Walter,12,chagas,2015-2019,total,2
+120042, Rodrigues Alves,12,chagas,2015-2019,total,3
+120060, Tarauacá,12,chagas,2015-2019,total,2
+130002, Alvarães,13,chagas,2015-2019,total,1
+130020, Atalaia do Norte,13,chagas,2015-2019,total,1
+130040, Barcelos,13,chagas,2015-2019,total,2
+130050, Barreirinha,13,chagas,2015-2019,total,15
+130068, Boa Vista do Ramos,13,chagas,2015-2019,total,1
+130100, Carauari,13,chagas,2015-2019,total,18
+130120, Coari,13,chagas,2015-2019,total,4
+130140, Eirunepé,13,chagas,2015-2019,total,1
+130160, Fonte Boa,13,chagas,2015-2019,total,1
+130180, Ipixuna,13,chagas,2015-2019,total,1
+130185, Iranduba,13,chagas,2015-2019,total,1
+130220, Juruá,13,chagas,2015-2019,total,2
+130240, Lábrea,13,chagas,2015-2019,total,8
+130260, Manaus,13,chagas,2015-2019,total,11
+130270, Manicoré,13,chagas,2015-2019,total,1
+130280, Maraã,13,chagas,2015-2019,total,1
+130310, Nova Olinda do Norte,13,chagas,2015-2019,total,4
+130340, Parintins,13,chagas,2015-2019,total,1
+130390, São Paulo de Olivença,13,chagas,2015-2019,total,1
+130420, Tefé,13,chagas,2015-2019,total,1
+130426, Uarini,13,chagas,2015-2019,total,7
+140010, Boa Vista,14,chagas,2015-2019,total,2
+140020, Caracaraí,14,chagas,2015-2019,total,2
+150010, Abaetetuba,15,chagas,2015-2019,total,152
+150020, Acará,15,chagas,2015-2019,total,41
+150030, Afuá,15,chagas,2015-2019,total,19
+150034, Água Azul do Norte,15,chagas,2015-2019,total,1
+150040, Alenquer,15,chagas,2015-2019,total,3
+150060, Altamira,15,chagas,2015-2019,total,1
+150070, Anajás,15,chagas,2015-2019,total,21
+150080, Ananindeua,15,chagas,2015-2019,total,40
+150090, Augusto Corrêa,15,chagas,2015-2019,total,3
+150095, Aurora do Pará,15,chagas,2015-2019,total,2
+150110, Bagre,15,chagas,2015-2019,total,47
+150120, Baião,15,chagas,2015-2019,total,3
+150130, Barcarena,15,chagas,2015-2019,total,86
+150140, Belém,15,chagas,2015-2019,total,159
+150150, Benevides,15,chagas,2015-2019,total,10
+150170, Bragança,15,chagas,2015-2019,total,10
+150178, Breu Branco,15,chagas,2015-2019,total,1
+150180, Breves,15,chagas,2015-2019,total,202
+150190, Bujaru,15,chagas,2015-2019,total,26
+150210, Cametá,15,chagas,2015-2019,total,101
+150230, Capitão Poço,15,chagas,2015-2019,total,1
+150240, Castanhal,15,chagas,2015-2019,total,5
+150280, Curralinho,15,chagas,2015-2019,total,42
+150285, Curuá,15,chagas,2015-2019,total,2
+150307, Garrafão do Norte,15,chagas,2015-2019,total,2
+150310, Gurupá,15,chagas,2015-2019,total,6
+150320, Igarapé-Açu,15,chagas,2015-2019,total,1
+150330, Igarapé-Miri,15,chagas,2015-2019,total,62
+150340, Inhangapi,15,chagas,2015-2019,total,1
+150345, Ipixuna do Pará,15,chagas,2015-2019,total,1
+150350, Irituia,15,chagas,2015-2019,total,2
+150375, Jacareacanga,15,chagas,2015-2019,total,1
+150390, Juruti,15,chagas,2015-2019,total,2
+150400, Limoeiro do Ajuru,15,chagas,2015-2019,total,67
+150410, Magalhães Barata,15,chagas,2015-2019,total,1
+150420, Marabá,15,chagas,2015-2019,total,2
+150442, Marituba,15,chagas,2015-2019,total,8
+150450, Melgaço,15,chagas,2015-2019,total,29
+150460, Mocajuba,15,chagas,2015-2019,total,3
+150470, Moju,15,chagas,2015-2019,total,17
+150490, Muaná,15,chagas,2015-2019,total,53
+150506, Novo Repartimento,15,chagas,2015-2019,total,4
+150520, Oeiras do Pará,15,chagas,2015-2019,total,25
+150530, Oriximiná,15,chagas,2015-2019,total,1
+150540, Ourém,15,chagas,2015-2019,total,1
+150548, Pacajá,15,chagas,2015-2019,total,1
+150550, Paragominas,15,chagas,2015-2019,total,5
+150570, Ponta de Pedras,15,chagas,2015-2019,total,5
+150580, Portel,15,chagas,2015-2019,total,7
+150600, Prainha,15,chagas,2015-2019,total,3
+150620, Salinópolis,15,chagas,2015-2019,total,1
+150635, Santa Bárbara do Pará,15,chagas,2015-2019,total,3
+150680, Santarém,15,chagas,2015-2019,total,24
+150700, Santo Antônio do Tauá,15,chagas,2015-2019,total,1
+150720, São Domingos do Capim,15,chagas,2015-2019,total,25
+150760, São Miguel do Guamá,15,chagas,2015-2019,total,5
+150770, São Sebastião da Boa Vista,15,chagas,2015-2019,total,36
+150795, Tailândia,15,chagas,2015-2019,total,1
+150800, Tomé-Açu,15,chagas,2015-2019,total,2
+150803, Tracuateua,15,chagas,2015-2019,total,2
+150810, Tucuruí,15,chagas,2015-2019,total,5
+150830, Viseu,15,chagas,2015-2019,total,1
+160030, Macapá,16,chagas,2015-2019,total,64
+160040, Mazagão,16,chagas,2015-2019,total,4
+160060, Santana,16,chagas,2015-2019,total,20
+160070, Tartarugalzinho,16,chagas,2015-2019,total,1
+170110, Aparecida do Rio Negro,17,chagas,2015-2019,total,11
+170210, Araguaína,17,chagas,2015-2019,total,11
+170220, Araguatins,17,chagas,2015-2019,total,1
+170550, Colinas do Tocantins,17,chagas,2015-2019,total,1
+170600, Couto Magalhães,17,chagas,2015-2019,total,1
+170930, Guaraí,17,chagas,2015-2019,total,3
+172010, São Bento do Tocantins,17,chagas,2015-2019,total,1
+210020, Alcântara,21,chagas,2015-2019,total,1
+210530, Imperatriz,21,chagas,2015-2019,total,1
+210760, Palmeirândia,21,chagas,2015-2019,total,1
+210825, Pedro do Rosário,21,chagas,2015-2019,total,20
+210860, Pinheiro,21,chagas,2015-2019,total,3
+211020, Santa Rita,21,chagas,2015-2019,total,1
+211240, Turiaçu,21,chagas,2015-2019,total,1
+211245, Turilândia,21,chagas,2015-2019,total,11
+510343, Curvelândia,51,chagas,2015-2019,total,1
+510625, Nova Xavantina,51,chagas,2015-2019,total,1
+510760, Rondonópolis,51,chagas,2015-2019,total,1
+510790, Sinop,51,chagas,2015-2019,total,1
